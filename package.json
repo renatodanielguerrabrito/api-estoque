@@ -1,0 +1,14 @@
+{
+  "name": "api-estoque",
+  "version": "1.0.0",
+  "description": "Automação de API Estoque em Cypress - Testes Integrados",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
