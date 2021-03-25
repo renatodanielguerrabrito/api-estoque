@@ -124,7 +124,7 @@ describe("Chamada API - exemplos", () => {
     .its('0') // yields first element of the array
     .should('contain', {
       postId: 1,
-      id: 3,
+      id: 3, 
     })
   })
   //* ------------------------------------------------------------------------
